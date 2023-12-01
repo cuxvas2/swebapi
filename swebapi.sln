@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swebapi", "swebapi\swebapi.csproj", "{8073638C-EE91-421C-B27B-34DF0EB4AE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8073638C-EE91-421C-B27B-34DF0EB4AE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8073638C-EE91-421C-B27B-34DF0EB4AE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8073638C-EE91-421C-B27B-34DF0EB4AE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8073638C-EE91-421C-B27B-34DF0EB4AE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B0148B-E25B-45E4-9399-4525871366C4}
+	EndGlobalSection
+EndGlobal
